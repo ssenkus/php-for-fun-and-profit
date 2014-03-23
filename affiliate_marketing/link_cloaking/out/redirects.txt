@@ -1,0 +1,5 @@
+default,http://example.com
+arduino,http://www.avantlink.com/click.php?tt=paw&ti=74493&pw=134143&pri=395999&df=581
+wire,http://www.avantlink.com/click.php?tt=pdb&ti=72021&pw=134143&pt=3&pri=168915
+yoast,http://yoast.com
+test,http://yoast.com/?p=2
