@@ -1,0 +1,3 @@
+TODO:
+
+Get urls such as /out/arduino to redirect to index.php?id=arduino

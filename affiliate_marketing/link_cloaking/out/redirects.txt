@@ -1,6 +1,6 @@
-default,http://example.com
 arduino,http://www.avantlink.com/click.php?tt=paw&ti=74493&pw=134143&pri=395999&df=581
 wire,http://www.avantlink.com/click.php?tt=pdb&ti=72021&pw=134143&pt=3&pri=168915
 phpmysql,http://www.amazon.com/gp/product/1449319262/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449319262&linkCode=as2&tag=diauci-20
 yoast,http://yoast.com
 test,http://yoast.com/?p=2
+default,http://example.com
